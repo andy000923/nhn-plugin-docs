@@ -300,6 +300,6 @@ You should insert information about account in Cloudforet's **Service Account** 
    
 ---
 
-## How to use
+## Comprehensive Guide on Utilizing the NHN Plugin
 #### [English guide for NHN Plugin](./docs/en/GUIDE.md)
 #### [Korean guide for NHN Plugin](./docs/ko/GUIDE.md)
